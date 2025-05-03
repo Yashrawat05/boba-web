@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body {
+    font-family: "Poppins";
+    text-align: center;
+}
+
+/* Forcing the image size if it's too big */
+img {
+    width: 200px;
+    height: 300px;
+}
+
+
+h1{
+    font-weight: bold;
+    background-color: azure;
+}
+p{background-color: aliceblue;}
+figcaption{background-color: rgb(202, 234, 228);}

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>About me</title>
+    <link href="style.css" rel="stylesheet" type="text/css"/>
+  </head>
+  <body>
+  <img src="https://raw.githubusercontent.com/Yashrawat05/Bobadrop-submissions/refs/heads/main/file%20(1).jpg" alt="">
+  <figcaption>My novel</figcaption>
+  <h1>Introduction</h1>
+  <p>I am Yash Rawat, an Indian author with my debut novel 'Shantinagar' published in 2024, in hindi language. </p>
+
+    <p>I am also a chess player with a rating of 1700. </p>
+      <p> I am also a civil engineer.</p>
+
+  </body> 
+</html>
